@@ -1,3 +1,6 @@
+Time complexity: O(n)
+Space complexity: O(n)
+
 1) **Choose Methodology**: I had to decide between sorting the array and comparing adjacent elements or using a HashSet. For this explanation, let's focus on the HashSet approach.
 2) **Create a HashSet**: Instantiate a HashSet to store unique elements.
 3) **Iterate Over the Array**: Start iterating over the array.
