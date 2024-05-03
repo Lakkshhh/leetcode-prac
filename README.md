@@ -1,2 +1,2 @@
 # Leetcode DSA Practice
-Comprehensive set of LeetCode problems meticulously solved to enhance proficiency in data structures and algorithms. Elevate problem-solving skills through hands-on coding, fostering a deeper understanding of key concepts in computer science - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Here, I log my solutions and insights from daily LeetCode problem-solving sessions. It's a journey to enhance my problem-solving skills, deepen my understanding of data structures and algorithms, and refine my coding approach - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
