@@ -1,1 +1,2 @@
+Time complexity: O(n)
 ​
