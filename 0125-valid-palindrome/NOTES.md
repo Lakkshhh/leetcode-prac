@@ -1,1 +1,3 @@
+Time Complexity: O(n)
+
 ​
