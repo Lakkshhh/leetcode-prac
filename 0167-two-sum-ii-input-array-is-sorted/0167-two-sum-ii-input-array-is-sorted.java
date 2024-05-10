@@ -1,19 +1,18 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int left = 0;
-        int right = numbers.length - 1;
-
-        while (left < right) {
-            int total = numbers[left] + numbers[right];
-
-            if (total == target) {
-                return new int[]{left + 1, right + 1};
-            } else if (total > target) {
-                right--;
+        int a_pointer = 0;
+        int b_pointer = numbers.length - 1;
+        
+        while(a_pointer <= b_pointer) {
+            int sum = numbers[a_pointer] + numbers[b_pointer];
+            if(sum<target) {
+                a_pointer += 1;
+            } else if(sum>target) {
+                b_pointer -= 1;
             } else {
-                left++;
+                return new int[]{a_pointer+1, b_pointer+1};
             }
         }
-        return new int[]{-1, -1}; // If no solution is found        
+        return new int[]{};
     }
 }
