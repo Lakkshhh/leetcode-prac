@@ -1,1 +1,1 @@
-Time Complexity: ​
+Time Complexity: ​O(n)
