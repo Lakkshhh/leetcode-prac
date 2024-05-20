@@ -1,12 +1,12 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // Step 1: Calculate the frequency of each element
+        // Calculate the frequency of each element
         Map<Integer, Integer> freq = new HashMap<>();
         for (int num : nums) {
             freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Use a min-heap to keep track of the top K frequent elements
+        // Use a min-heap to keep track of the top K frequent elements
         PriorityQueue<Map.Entry<Integer, Integer>> heap = new PriorityQueue<>(
             (a, b) -> a.getValue() - b.getValue()
         );
@@ -18,7 +18,7 @@ class Solution {
             }
         }
 
-        // Step 3: Extract the elements from the heap into the result array
+        // Extract the elements from the heap into the result array
         int[] elements = new int[k];
         int index = 0;
         while (!heap.isEmpty()) {
