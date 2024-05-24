@@ -23,7 +23,7 @@ class Solution {
 
 
 
-// class Solution {        // Bucket solution to get Time Complexity: o(n)
+// class Solution {        // Bucket solution to get Time Complexity: O(n)
 //     public int[] topKFrequent(int[] nums, int k) {
 //         List<Integer>[] bucket = new List[nums.length + 1];
 //         HashMap<Integer, Integer> hm = new HashMap<>();
