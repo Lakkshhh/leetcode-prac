@@ -10,14 +10,11 @@ class Solution {
             res.add(s);
             return;
         }
-        
         if (open < n) {
             backtrack(res, s + "(", open + 1, close, n);
         }
-        
         if (close < open) {
             backtrack(res, s + ")", open, close + 1, n);
         }
     }
-	// See above tree diagram with parameters (left, right, s) for better understanding
 }
