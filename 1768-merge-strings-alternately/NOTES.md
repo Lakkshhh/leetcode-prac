@@ -1,1 +1,1 @@
-​
+Since the String Class in Java creates an immutable sequence of characters, the StringBuilder class provides an alternative to String Class, as it creates a mutable sequence of characters. Traverse both input strings together, picking each character alternately from both strings and appending it to the merged result string.
