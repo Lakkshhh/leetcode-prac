@@ -7,6 +7,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lakkshhh/leetcode-prac/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Stack
 |  |
 | ------- |
