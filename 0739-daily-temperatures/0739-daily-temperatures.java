@@ -5,15 +5,11 @@ class Solution {
         for(int i = 0; i < temps.length; i++) {
             while(!index.isEmpty() && temps[index.peek()] < temps[i]) {
                 int topIndex = index.pop();
-                int diff = i - topIndex;
-                res[topIndex] = diff;
+                res[topIndex] = i - topIndex;
             }
             index.push(i);
         }
-        while(!index.isEmpty()) {
-            int topIndex = index.pop();
-            res[topIndex] = 0;
-        }
+
         return res;
     }
 }
