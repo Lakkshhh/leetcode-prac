@@ -1,4 +1,4 @@
-Time Complexity: O(n)
+Time Complexity: O(n) --> Pushing and popping are constant time operations, O(1). Since each temperature index is pushed and popped from the stack at most once, the total number of operations is linear with respect to the number of temperatures.
 
 1. Initialize an empty stack to keep track of the indices of temperatures.
 2. Initialize a list of the same length as temperatures, all elements are initially already set to 0. This list will store the number of days until the next warmer temperature for each day.
