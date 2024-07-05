@@ -18,6 +18,7 @@ class Solution {
     }
 }
 
+// Time Complexity: O(nlogn) - I need to sort the array as well
 // class Solution {
 //     public int carFleet(int target, int[] position, int[] speed) {
 //         int[][] combo = new int[position.length][2];
