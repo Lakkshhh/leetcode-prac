@@ -28,4 +28,12 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
