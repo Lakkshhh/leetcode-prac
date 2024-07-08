@@ -1,31 +1,20 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
+    public int largestRectangleArea(int[] h) {
+        int n = h.length;
         int maxArea = 0;
-        Stack<Pair> stack = new Stack<>();
-        int n= heights.length;
-        for (int i = 0; i <= n; i++) {
-            int start = i;
-            // Pop elements from stack while the current height is less than the height at stack's top
-            while (!stack.isEmpty() && (i==n || stack.peek().height > heights[i])) {
-                Pair pair = stack.pop();
-                int index = pair.index;
-                int height = pair.height;
-                int length =i-index;
-                maxArea = Math.max(maxArea, height * length);
-                start = index;  // Update start to the index of the popped element
+        Stack<Integer> st = new Stack();
+
+        for(int i = 0; i <= n; i++) {
+            int currHeight = i==n ? 0 : h[i];
+
+            while(!st.isEmpty() && currHeight < h[st.peek()]) {
+                int top = st.pop();
+                int width = st.isEmpty() ? i : i-st.peek()-1;
+                int area = h[top]*width;
+                maxArea = Math.max(maxArea, area);
             }
-            if(i<n) stack.push(new Pair(start, heights[i]));  // Push current index and height as a pair
+            st.push(i);
         }
-
         return maxArea;
-    }
-    class Pair {
-        int index;
-        int height;
-
-        Pair(int index, int height) {
-            this.index = index;
-            this.height = height;
-        }
     }
 }
