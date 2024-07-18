@@ -15,7 +15,7 @@ class Solution {
         int hours = 0;
         for (int pile : piles) {
             hours += (pile + k - 1) / k;
-            if (hours > h) return false; // Early exit if hours exceed h
+            if (hours > h) return false; 
         }
         return hours <= h;
     }
