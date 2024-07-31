@@ -8,6 +8,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
 ## Matrix
