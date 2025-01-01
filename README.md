@@ -46,6 +46,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Lakkshhh/leetcode-prac/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Lakkshhh/leetcode-prac/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
