@@ -29,8 +29,7 @@ class Solution:
         #     ans[i] = pre[i]*suf[i]
 
         # return ans
-        n = len(nums)
-        ans = [0]*n
+        ans = [0]*len(nums)
         prefix, postfix = 1, 1
 
         for i in range(len(nums)):
