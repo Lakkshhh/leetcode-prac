@@ -11,6 +11,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
@@ -84,4 +85,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/1146-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
