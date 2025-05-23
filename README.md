@@ -11,6 +11,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
@@ -41,6 +42,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
@@ -81,6 +83,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -91,4 +94,12 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
