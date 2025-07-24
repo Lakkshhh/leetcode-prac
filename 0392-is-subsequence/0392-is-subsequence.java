@@ -9,11 +9,7 @@ class Solution {
                 x++;
             }
         }
-        if(x == s.length()) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        
+        return x == s.length();
     }
 }
