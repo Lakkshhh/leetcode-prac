@@ -81,6 +81,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -109,4 +110,5 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
