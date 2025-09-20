@@ -13,6 +13,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0136-single-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
@@ -44,6 +45,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
