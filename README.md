@@ -6,6 +6,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
@@ -90,6 +91,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
