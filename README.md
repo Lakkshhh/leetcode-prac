@@ -8,6 +8,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +96,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
