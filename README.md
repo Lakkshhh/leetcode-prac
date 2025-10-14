@@ -30,6 +30,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lakkshhh/leetcode-prac/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
@@ -67,6 +68,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Lakkshhh/leetcode-prac/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
