@@ -25,6 +25,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lakkshhh/leetcode-prac/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Stack
@@ -149,6 +150,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
