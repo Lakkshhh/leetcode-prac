@@ -12,19 +12,17 @@ class Solution:
         
         return max_p
 
-        # left = 0
-        # right = 1
-        # max_profit = 0
-        # min_price = prices[left]
+        #Two Pointer Approach
+
+        # left, right = 0, 1
+        # max_p = 0
 
         # while right < len(prices):
         #     if prices[right] > prices[left]:
-        #         max_profit = max(max_profit, prices[right] - prices[left])
-        #         right += 1
+        #         max_profit = max(max_p, prices[right] - prices[left])
         #     else :
-        #         if prices[right] < min_price:
-        #             min_price = prices[right]
-        #             left = right
-        #         right += 1
+        #         left = right
+        
+        #     right += 1
 
-        # return max_profit
+        # return max_p
