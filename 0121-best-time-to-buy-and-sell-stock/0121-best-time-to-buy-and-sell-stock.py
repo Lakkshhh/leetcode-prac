@@ -1,18 +1,30 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        left = 0
-        right = 1
-        max_profit = 0
-        min_price = prices[left]
 
-        while right < len(prices):
-            if prices[right] > prices[left]:
-                max_profit = max(max_profit, prices[right] - prices[left])
-                right += 1
-            else :
-                if prices[right] < min_price:
-                    min_price = prices[right]
-                    left = right
-                right += 1
+        #Dynamic Approach:
 
-        return max_profit
+        max_p = 0
+        min_buy = prices[0]
+
+        for sell in prices:
+            max_p = max(max_p, sell - min_buy)
+            min_buy = min(min_buy, sell)
+        
+        return max_p
+
+        # left = 0
+        # right = 1
+        # max_profit = 0
+        # min_price = prices[left]
+
+        # while right < len(prices):
+        #     if prices[right] > prices[left]:
+        #         max_profit = max(max_profit, prices[right] - prices[left])
+        #         right += 1
+        #     else :
+        #         if prices[right] < min_price:
+        #             min_price = prices[right]
+        #             left = right
+        #         right += 1
+
+        # return max_profit
