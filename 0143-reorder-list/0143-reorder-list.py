@@ -15,20 +15,18 @@ class Solution:
             fast = fast.next.next
 
         # Step 2: Reverse the second half
-        temp = slow.next
+        second = slow.next
         prev = slow.next = None
-        while temp:
-            node = temp.next
-            temp.next = prev
-            prev = temp
-            temp = node
+        while second:
+            temp = second.next
+            second.next = prev
+            prev = second
+            second = temp
         
         # Step 3: Alternatively add both of them one by one
         first, second = head, prev
         while second:
-            temp = first.next
-            node = second.next
+            temp1, temp2 = first.next, second.next
             first.next = second
-            second.next = temp
-            first = temp
-            second = node
+            second.next = temp1
+            first, second = temp1, temp2
