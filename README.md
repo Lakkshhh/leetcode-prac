@@ -83,6 +83,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0141-linked-list-cycle](https://github.com/Lakkshhh/leetcode-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -149,6 +151,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
@@ -232,4 +235,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0021-merge-two-sorted-lists](https://github.com/Lakkshhh/leetcode-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
