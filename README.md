@@ -8,6 +8,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
@@ -244,5 +245,6 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
