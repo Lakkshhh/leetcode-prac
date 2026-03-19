@@ -10,6 +10,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
@@ -248,5 +249,6 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
