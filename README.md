@@ -20,6 +20,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0543-diameter-of-binary-tree) |
@@ -214,6 +217,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 ## String Matching
 |  |
@@ -251,4 +255,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
