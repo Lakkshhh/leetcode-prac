@@ -33,6 +33,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Lakkshhh/leetcode-prac/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lakkshhh/leetcode-prac/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -110,6 +111,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Lakkshhh/leetcode-prac/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Lakkshhh/leetcode-prac/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
