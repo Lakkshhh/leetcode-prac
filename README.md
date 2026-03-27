@@ -29,6 +29,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
@@ -119,6 +120,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
