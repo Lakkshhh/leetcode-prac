@@ -20,6 +20,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Lakkshhh/leetcode-prac/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Lakkshhh/leetcode-prac/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
