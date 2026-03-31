@@ -12,6 +12,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
@@ -118,6 +119,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Lakkshhh/leetcode-prac/tree/master/0198-house-robber) |
@@ -155,6 +157,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
