@@ -28,6 +28,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -141,6 +143,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -159,11 +162,13 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +199,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
@@ -218,6 +224,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
@@ -289,4 +296,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
