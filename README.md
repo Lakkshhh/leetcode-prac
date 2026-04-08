@@ -18,6 +18,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +142,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Lakkshhh/leetcode-prac/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Lakkshhh/leetcode-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
@@ -292,6 +294,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 ## Graph Theory
