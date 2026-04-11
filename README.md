@@ -7,6 +7,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
@@ -68,6 +69,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
@@ -78,6 +80,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lakkshhh/leetcode-prac/tree/master/0141-linked-list-cycle) |
