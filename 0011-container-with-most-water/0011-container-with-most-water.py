@@ -6,7 +6,8 @@ class Solution:
         while l < r:
             area = min(height[l], height[r]) * (r - l)
             max_area = max(area, max_area)
-            if height[l] <= height[r]:
+            # Since amount of water depends only on the minimum height, it is appropriate to replace the smaller height value.
+            if height[l] <= height[r]: 
                 l +=1
             else:
                 r -= 1
