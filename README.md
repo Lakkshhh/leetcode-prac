@@ -7,6 +7,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
@@ -64,6 +65,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 ## Sorting
@@ -80,6 +82,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
