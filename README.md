@@ -13,6 +13,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
@@ -51,6 +52,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lakkshhh/leetcode-prac/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
@@ -59,6 +61,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
@@ -85,6 +88,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lakkshhh/leetcode-prac/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
@@ -132,6 +136,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
