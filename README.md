@@ -21,6 +21,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0136-single-number) |
@@ -182,6 +183,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
@@ -206,6 +208,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -215,6 +218,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -228,6 +232,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
