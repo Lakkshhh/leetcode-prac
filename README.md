@@ -40,6 +40,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
@@ -172,6 +173,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+| [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
