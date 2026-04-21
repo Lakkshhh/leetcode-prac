@@ -46,6 +46,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Lakkshhh/leetcode-prac/tree/master/0994-rotting-oranges) |
@@ -87,6 +88,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/Lakkshhh/leetcode-prac/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
