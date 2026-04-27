@@ -40,6 +40,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lakkshhh/leetcode-prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -344,4 +346,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
