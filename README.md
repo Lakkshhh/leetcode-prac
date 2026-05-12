@@ -47,6 +47,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
@@ -66,6 +67,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -73,6 +75,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Lakkshhh/leetcode-prac/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
@@ -91,6 +94,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
