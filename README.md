@@ -48,6 +48,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0746-min-cost-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
@@ -143,6 +144,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
