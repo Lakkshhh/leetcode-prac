@@ -134,6 +134,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
+| [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Lakkshhh/leetcode-prac/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -148,6 +149,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
+| [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -230,6 +233,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
 | ------- |
