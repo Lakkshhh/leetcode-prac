@@ -8,6 +8,7 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
+        
         # Step 1: Finding the center of the list
         slow, fast = head, head.next
         while fast and fast.next:
