@@ -107,6 +107,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0088-merge-sorted-array) |
@@ -335,6 +336,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Lakkshhh/leetcode-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Lakkshhh/leetcode-prac/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
