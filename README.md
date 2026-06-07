@@ -208,6 +208,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lakkshhh/leetcode-prac/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -337,6 +338,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Lakkshhh/leetcode-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0138-copy-list-with-random-pointer) |
@@ -346,6 +348,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Lakkshhh/leetcode-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0206-reverse-linked-list) |
