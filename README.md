@@ -39,6 +39,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0239-sliding-window-maximum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
@@ -118,6 +119,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lakkshhh/leetcode-prac/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0567-permutation-in-string) |
@@ -153,6 +155,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
@@ -240,6 +243,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
 ## Design
 |  |
