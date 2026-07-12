@@ -178,6 +178,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Lakkshhh/leetcode-prac/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Lakkshhh/leetcode-prac/tree/master/0338-counting-bits) |
@@ -267,6 +268,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lakkshhh/leetcode-prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakkshhh/leetcode-prac/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakkshhh/leetcode-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -301,6 +303,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lakkshhh/leetcode-prac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakkshhh/leetcode-prac/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakkshhh/leetcode-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -328,6 +331,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0098-validate-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Lakkshhh/leetcode-prac/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakkshhh/leetcode-prac/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
