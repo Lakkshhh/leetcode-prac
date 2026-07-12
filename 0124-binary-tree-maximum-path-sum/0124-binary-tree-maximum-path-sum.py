@@ -10,17 +10,17 @@ class Solution:
 
         def dfs(root):
             nonlocal res
-            
+
             if not root:
                 return 0
             
             leftMax = dfs(root.left)
             rightMax = dfs(root.right)
-            left = max(leftMax, 0)
-            right = max(rightMax, 0)
-            res = max(res, root.val + left + right)
+            leftMax = max(leftMax, 0)
+            rightMax = max(rightMax, 0)
+            res = max(res, root.val + leftMax + rightMax)
 
-            return root.val + max(left, right)
+            return root.val + max(leftMax, rightMax)
         
         dfs(root)
         return res
