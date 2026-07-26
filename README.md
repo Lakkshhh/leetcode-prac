@@ -21,6 +21,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0090-subsets-ii) |
@@ -137,6 +138,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0049-group-anagrams](https://github.com/Lakkshhh/leetcode-prac/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/0205-isomorphic-strings) |
@@ -170,6 +172,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
@@ -336,6 +339,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0110-balanced-binary-tree) |
@@ -414,6 +418,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0040-combination-sum-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lakkshhh/leetcode-prac/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lakkshhh/leetcode-prac/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0090-subsets-ii) |
 ## Union-Find
 |  |
