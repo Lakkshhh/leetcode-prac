@@ -146,6 +146,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0151-reverse-words-in-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
@@ -270,6 +271,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0146-lru-cache](https://github.com/Lakkshhh/leetcode-prac/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Lakkshhh/leetcode-prac/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
@@ -352,6 +354,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0133-clone-graph](https://github.com/Lakkshhh/leetcode-prac/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Lakkshhh/leetcode-prac/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lakkshhh/leetcode-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -415,6 +418,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
