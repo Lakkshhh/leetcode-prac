@@ -37,6 +37,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Lakkshhh/leetcode-prac/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Lakkshhh/leetcode-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
@@ -147,6 +148,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0205-isomorphic-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0345-reverse-vowels-of-a-string) |
@@ -178,6 +180,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0074-search-a-2d-matrix](https://github.com/Lakkshhh/leetcode-prac/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lakkshhh/leetcode-prac/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0212-word-search-ii) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Lakkshhh/leetcode-prac/tree/master/0994-rotting-oranges) |
@@ -419,6 +422,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Lakkshhh/leetcode-prac/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Lakkshhh/leetcode-prac/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,6 +436,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lakkshhh/leetcode-prac/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Lakkshhh/leetcode-prac/tree/master/0212-word-search-ii) |
 ## Union-Find
 |  |
 | ------- |
