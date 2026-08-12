@@ -50,6 +50,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Lakkshhh/leetcode-prac/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
@@ -94,6 +95,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0242-valid-anagram](https://github.com/Lakkshhh/leetcode-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
@@ -227,6 +230,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakkshhh/leetcode-prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0697-degree-of-an-array) |
 | [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -262,6 +266,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | ------- |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,6 +320,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0215-kth-largest-element-in-an-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lakkshhh/leetcode-prac/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
