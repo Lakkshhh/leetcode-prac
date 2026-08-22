@@ -10,6 +10,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0004-median-of-two-sorted-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Lakkshhh/leetcode-prac/tree/master/0036-valid-sudoku) |
@@ -119,6 +120,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0088-merge-sorted-array) |
