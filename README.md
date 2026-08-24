@@ -70,6 +70,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [1046-last-stone-weight](https://github.com/Lakkshhh/leetcode-prac/tree/master/1046-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lakkshhh/leetcode-prac/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0883-car-fleet](https://github.com/Lakkshhh/leetcode-prac/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Lakkshhh/leetcode-prac/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Lakkshhh/leetcode-prac/tree/master/0981-time-based-key-value-store) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Matrix
 |  |
 | ------- |
@@ -258,6 +262,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lakkshhh/leetcode-prac/tree/master/0238-product-of-array-except-self) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -428,6 +433,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0239-sliding-window-maximum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lakkshhh/leetcode-prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lakkshhh/leetcode-prac/tree/master/0567-permutation-in-string) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Linked List
 |  |
 | ------- |
