@@ -182,6 +182,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakkshhh/leetcode-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/Lakkshhh/leetcode-prac/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
@@ -256,6 +257,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lakkshhh/leetcode-prac/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Lakkshhh/leetcode-prac/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/Lakkshhh/leetcode-prac/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Lakkshhh/leetcode-prac/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Prefix Sum
