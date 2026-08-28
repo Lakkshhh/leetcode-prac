@@ -1,18 +1,14 @@
 class Solution:
-    def maxSubArray(self, nums: List[int]) -> int:
-        max_sum = nums[0]
-        cur_sum = 0
+    def maxSubArray(self, nums: list[int]) -> int:
+        max_sum, current_sum = nums[0], 0
         for num in nums:
-            if cur_sum < 0: 
-                cur_sum = 0
-            cur_sum += num
-            if cur_sum > max_sum: 
-                max_sum = cur_sum
-                
+            if current_sum < 0:
+                current_sum = 0
+            current_sum += num
+            max_sum = max(max_sum, current_sum)
         return max_sum
 
-        # dp = [0] * len(nums)
-        # dp[0] = nums[0]
-        # for i in range(1, len(nums)):
-        #     dp[i] = max(dp[i-1] + nums[i], nums[i])
-        # return max(dp)
+
+"""Let me first make sure I understand the problem: I need to find the contiguous subarray with the largest sum, and it has to be at least one element, so I can't just return zero if everything's negative. The key observation is that if the running sum I'm building up ever goes negative, it can only hurt any future subarray I attach it to, so at that point I'm better off just dropping it and starting fresh from the next element. That tells me I don't need any extra data structure here — I can just track things with a couple of running variables as I go through the array once. So the approach is: I keep a current running sum and a max sum seen so far, and as I iterate through the numbers, if my current sum has dropped below zero, I reset it to zero before adding the next number in, since carrying negative baggage forward would only drag down future sums; then I add the current number in either way and update my max if this running sum beats what I've seen before. One subtlety I'd point out is initializing max_sum to nums[0] rather than zero, so that if the whole array is negative, I still correctly return the least negative single element instead of incorrectly returning zero. In terms of complexity, this is O(n) time since it's a single pass through the array, and O(1) space since I'm only tracking two running values regardless of input size.
+
+Checking every possible subarray's sum directly is O(n²) — recomputing overlapping sums repeatedly — but the key insight is that a negative running sum can never help a future subarray, since adding a negative prefix only drags down whatever comes after it, so the best move whenever the running sum goes negative is to just abandon it and restart from the next element. That's the Kadane's algorithm trigger: track a running sum that resets to zero whenever it dips negative, and record the best sum seen at any point along the way, since the optimal subarray must end at some index, and at each index the best subarray ending there is either 'extend the previous best' or 'start fresh here.' I chose this single-pass running-sum approach over brute-force pairwise range sums, and over a full DP array tracking best-sum-ending-at-i for every index, because Kadane's only needs the previous running sum to compute the current one, not the whole history, collapsing what could be an O(n) space DP table into O(1) space with no loss of correctness. This runs in O(n) time, since the array is scanned exactly once, and O(1) space, since only two running variables are tracked regardless of input size."""
