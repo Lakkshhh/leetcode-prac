@@ -52,6 +52,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0334-increasing-triplet-subsequence](https://github.com/Lakkshhh/leetcode-prac/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Lakkshhh/leetcode-prac/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Lakkshhh/leetcode-prac/tree/master/0419-battleships-in-a-board) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Lakkshhh/leetcode-prac/tree/master/0682-baseball-game) |
@@ -187,6 +188,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0268-missing-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Lakkshhh/leetcode-prac/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lakkshhh/leetcode-prac/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Lakkshhh/leetcode-prac/tree/master/0875-koko-eating-bananas) |
