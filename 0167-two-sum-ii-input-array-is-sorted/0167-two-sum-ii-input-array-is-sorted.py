@@ -1,13 +1,17 @@
 class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        low, high = 0, len(numbers) - 1
-
-        while low < high:
-            if numbers[low] + numbers[high] > target:
-                high -= 1
-            elif numbers[low] + numbers[high] < target:
-                low += 1
+    def twoSum(self, numbers: list[int], target: int) -> list[int]:
+        left, right = 0, len(numbers) - 1
+        while left < right:
+            current_sum = numbers[left] + numbers[right]
+            if current_sum > target:
+                right -= 1
+            elif current_sum < target:
+                left += 1
             else:
-                return [low + 1, high + 1]
-        
+                return [left + 1, right + 1]
         return []
+
+
+"""Let me first make sure I understand the problem: I'm given an array that's already sorted, and I need to find two numbers that add up to a target, then return their indices, but this time using one-indexed positions instead of zero-indexed. The key observation is that because the array is sorted, I don't need to check every possible pair — if I start with the smallest and largest elements together, I can reason directly about whether my sum is too big or too small and know exactly which direction to move, which means I don't need any extra data structure like a hash map here at all. So the approach is a two-pointer sweep: I start one pointer at the very beginning and one at the very end of the array, and at each step I add the two values together; if the sum is too large, I know the right pointer must be contributing too much, so I move it inward to try a smaller value, and if the sum is too small, I move the left pointer inward to try a larger value, since moving the other pointer wouldn't help in either case given the sorted order. Once the sum matches the target exactly, I've found my pair, and I return the indices adjusted by one to account for the problem wanting one-indexed results rather than zero-indexed. The reason this greedy pointer movement is safe is that because the array is sorted, if the current pair overshoots the target, every pair using that same right pointer with an even larger left value would overshoot even more, so I can safely rule out a whole set of pairs in one step instead of checking them individually. In terms of complexity, this is O(n) time since the two pointers only ever move toward each other and cover the array once between them, and O(1) space since I'm not using any extra structures beyond the two pointer variables.
+
+Since the array is already sorted, I can exploit that ordering directly instead of checking every pair — if the current sum is too large, the only way to shrink it is to move the right pointer inward, since that's the only direction that decreases values; if it's too small, only moving the left pointer inward can increase it. Starting from both ends and moving inward based on which direction the sum needs to shift guarantees I never miss the correct pair, because at any point one of the two moves is provably the only one that can possibly help. I chose two pointers over a hash-map complement lookup (the standard unsorted Two Sum approach) because the array being sorted is a strictly stronger guarantee, and exploiting it gets me O(1) extra space instead of the O(n) a hash map would require — the hash map approach still works here and is arguably simpler to reason about, but it throws away the sortedness for no benefit. This runs in O(n) time, since the two pointers move toward each other and the loop terminates once they meet, and O(1) space, since only two integer pointers are tracked regardless of input size."""
