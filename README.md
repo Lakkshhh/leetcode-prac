@@ -72,6 +72,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [1392-find-the-difference-of-two-arrays](https://github.com/Lakkshhh/leetcode-prac/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lakkshhh/leetcode-prac/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Lakkshhh/leetcode-prac/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0605-can-place-flowers](https://github.com/Lakkshhh/leetcode-prac/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Lakkshhh/leetcode-prac/tree/master/0621-task-scheduler) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Lakkshhh/leetcode-prac/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Lakkshhh/leetcode-prac/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
