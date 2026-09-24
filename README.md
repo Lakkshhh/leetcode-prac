@@ -127,6 +127,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lakkshhh/leetcode-prac/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -152,6 +153,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lakkshhh/leetcode-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Lakkshhh/leetcode-prac/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lakkshhh/leetcode-prac/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Lakkshhh/leetcode-prac/tree/master/0020-valid-parentheses) |
@@ -210,6 +212,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lakkshhh/leetcode-prac/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
@@ -550,4 +553,8 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakkshhh/leetcode-prac/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
