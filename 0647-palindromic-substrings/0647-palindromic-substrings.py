@@ -1,7 +1,10 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
+        # Instead of checking all substrings, fix a center and expand outwards as long as characters match,
+        # and each successful expansion forms one palindrome
+        
         res = 0
-
+        
         for i in range(len(s)):
             # odd length
             l, r = i, i
