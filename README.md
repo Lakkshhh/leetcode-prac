@@ -163,6 +163,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0058-length-of-last-word](https://github.com/Lakkshhh/leetcode-prac/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Lakkshhh/leetcode-prac/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Lakkshhh/leetcode-prac/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Lakkshhh/leetcode-prac/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Lakkshhh/leetcode-prac/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Lakkshhh/leetcode-prac/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Lakkshhh/leetcode-prac/tree/master/0131-palindrome-partitioning) |
@@ -219,6 +220,7 @@ Here, I log my solutions and insights from daily LeetCode problem-solving sessio
 | [0042-trapping-rain-water](https://github.com/Lakkshhh/leetcode-prac/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lakkshhh/leetcode-prac/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lakkshhh/leetcode-prac/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Lakkshhh/leetcode-prac/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakkshhh/leetcode-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lakkshhh/leetcode-prac/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Lakkshhh/leetcode-prac/tree/master/0131-palindrome-partitioning) |
